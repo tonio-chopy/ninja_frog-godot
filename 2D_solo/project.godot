@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="2D_ninja_frog"
-run/main_scene="/nfs/homes/alaualik/sgoinfre/2D_solo/main.tscn"
+run/main_scene="res://scenes/level1.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.svg"
 
